@@ -149,7 +149,7 @@ give appropriate credit.
 > Data: Live Tennis API (https://livetennisapi.com), ATP 2015 Tour-Level Singles Results,
 > licensed under CC-BY-4.0.
 
-See the [`LICENSE`](./LICENSE) file for the full license text.
+Copyright (c) Live Tennis API (https://livetennisapi.com). See the [`LICENSE`](./LICENSE) file for the full license text.
 
 ## Citation
 
